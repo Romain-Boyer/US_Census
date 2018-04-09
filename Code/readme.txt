@@ -1,3 +1,5 @@
+US Census
+
 We start with the viz_0.ipynb file.
 We loaded the dataset and searched the column names using the file census_income_metadata.txt'.
 There are two datasets with the same columns, one with about 200000 rows and the other with about 100000 rows.
